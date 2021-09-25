@@ -1,24 +1,28 @@
 # indexdb-vue
 
-## Project setup
+## 安装依赖
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### 运行项目
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
+### 用例
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### dexie
+- 添加数据库
+- 添加表
+- 添加数据
+- 查看数据
+### indexDB
+- 添加数据库
+- 添加表
+- 添加
+- 查看
+- 查看多个
+- 条件查看
+- 修改(覆盖式更新)
+- 删除
